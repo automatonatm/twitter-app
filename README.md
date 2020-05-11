@@ -1,7 +1,11 @@
 
 
 
-## SETUP
+### TWITTER CLONE WITH REACT NATIVE
+
+
+
+## SETUPS
 
 
 This part is mainly for the basic setup of the server. We go over the installation of Express and the basic GraphQL setup. We also add MongoDB and we make mocks on it.
