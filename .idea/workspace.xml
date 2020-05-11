@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cefa119-eb92-4023-bd92-843cfb4cdc55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../node-api/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-api/validators/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-basic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-basic/.idea/node-basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-basic/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-basic/helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../burger-basics-project-setup/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../burger-basics-project-setup/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cleint_app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cleint_app/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cleint_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cleint_app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cleint_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cleint_app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cleint_app/src/components/clients/Clients.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cleint_app/src/components/clients/Clients.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cleint_app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cleint_app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cleint_app/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cleint_app/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app2/src/Person/Person.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app2/src/Person/Person.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/redux-basics.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/redux-basics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/actions/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/actions/actionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/actions/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/actions/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/actions/result.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/actions/result.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/reducers/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/reducers/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/reducers/result.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/reducers/result.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux--01-start/src/store/utility.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux--01-start/src/store/utility.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starting-setup/src/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/../starting-setup/src/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starting-setup/src/containers/Blog/Posts/Posts.css" beforeDir="false" afterPath="$PROJECT_DIR$/../starting-setup/src/containers/Blog/Posts/Posts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starting-setup/src/containers/Blog/Posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../starting-setup/src/containers/Blog/Posts/Posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starting-setup/src/hoc/AsyncComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../starting-setup/src/hoc/AsyncComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tractoria_eccomerce/app/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../tractoria_eccomerce/app/Model.php" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="269">
+                <caret line="280" selection-start-line="280" selection-end-line="280" />
+                <folding>
+                  <element signature="e#0#30#0" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="e#0#30#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/twitter-clone-app.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="1" />
+    <option name="width" value="798" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="twitter-clone-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-clone-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/@vue/cli" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cefa119-eb92-4023-bd92-843cfb4cdc55" name="Default Changelist" comment="" />
+      <created>1589193656157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589193656157</updated>
+      <workItem from="1589193666532" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="244000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="269">
+            <caret line="280" selection-start-line="280" selection-end-line="280" />
+            <folding>
+              <element signature="e#0#30#0" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="e#0#30#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
